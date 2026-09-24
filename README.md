@@ -21,7 +21,7 @@ A simple weather application built with **React** that displays weather informat
 
 Weather data is provided by **OpenWeatherMap**.
 
-[OpenWeatherMap](https://openweathermap.org/?utm_source=chatgpt.com)
+[OpenWeatherMap](https://openweathermap.org/)
 
 ## Author
 
