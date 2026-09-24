@@ -17,6 +17,14 @@ A simple weather application built with **React** that displays weather informat
 * Vite
 * OpenWeatherMap API
 
+## Screenshots
+
+![Weather App](./screenshots/weather-search.png)
+
+![Weather App](./screenshots/weather-result-1.png)
+
+![Weather App](./screenshots/weather-result-2.png)
+
 ## API
 
 Weather data is provided by **OpenWeatherMap**.
